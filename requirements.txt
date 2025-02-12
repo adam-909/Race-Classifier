@@ -1,7 +1,6 @@
 ---
 
 ## **requirements.txt**
-Save this as **`requirements.txt`** in your project folder.
 
 ```txt
 tensorflow==2.10.0
